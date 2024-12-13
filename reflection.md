@@ -23,3 +23,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+I learned how to configure a dataset to create a map. I also learned how to create a dashboard in StreamLit by using st.columms to seperate information, st.metric to show data with a title, and plt.subplots() to generate a plot.
